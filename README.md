@@ -1,10 +1,18 @@
-## ISQA8086-Data to Decision
+## ISQA8086-Data to Decisions
 
 ### Course Objective
 > To provide a hands-on contextualized data analysis and information management skills.
 
 #### 1. Assignment 1 : _Readme.me_
 #### 2. Assignment 2 : _Information Seeking_
+
+* **Dataset_1_EuropeanUnionEmissions.csv** - Dataset 1 on European Union Emissions
+* **Dataset_1_EuropeanUnionEmissions.md** - Markdown document for information on Dataset 1
+* **Dataset_2_ValueOfExports_ByCountry.csv** - Dataset 2 on Value of Exports by Countries
+* **Dataset_2_ValueOfExports_ByCountry.md** - Markdown document for information on Dataset 2
+* **Dataset_3_CO2Emission_Coal.csv** - Dataset 3 on CO2 emissions on Coal consumption
+* **Dataset_3_CO2Emission_Coal.md** - Markdown document for information on Dataset 3
+
 #### 3. Assignment 3 : _Data Entry Analysis_
 #### 4. Assignment 4 : _Work Plan & RQs_
 #### 5. Assignment 5 : _Data Cleaning Documentation_
