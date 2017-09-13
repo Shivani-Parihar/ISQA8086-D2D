@@ -19,9 +19,11 @@
 
 #### Suggestions to improve the dataset -
 
+* The below table is my suggestion on how the data should have been arranged
+* Density is not known for all the years so it depends on the user if it should be included in the dataset. Generally if we have missing data in that case one way is to remove the field or to put a negative value for the missing record
+
+
+
 | Date  | Year |  Time_of_Recording |  Species |  Depth (mts) |  Temperature (F or C) | Species #/L | Density (kg/m3) | Species colony size | CHLA |
 |---|---|---|---|---|---|---|---|---|---|---|
 |   |   |   |   |   |   |   |   |   |   |   |
-
-* The above table is my suggestion on how the data should have been arranged
-* Density is not known for all the years so it depends on the user if it should be included in the dataset. Generally if we have missing data in that case one way is to remove the field or to put a negative value for the missing record
