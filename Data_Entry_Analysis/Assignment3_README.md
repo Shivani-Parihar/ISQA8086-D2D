@@ -25,5 +25,5 @@
 
 
 | Date  | Year |  Time_of_Recording |  Species |  Depth (mts) |  Temperature (F or C) | Species #/L | Density (kg/m3) | Species colony size | CHLA |
-|---|---|---|---|---|---|---|---|---|---|---|
-|   |   |   |   |   |   |   |   |   |   |   |
+|---|---|---|---|---|---|---|---|---|---|
+|   |   |   |   |   |   |   |   |   |   |
