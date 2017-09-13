@@ -14,6 +14,10 @@
 * **Dataset_3_CO2Emission_Coal.md** - Markdown document for information on Dataset 3
 
 #### 3. Assignment 3 : _Data Entry Analysis_
+
+* **Assignment3_README.md** - This markdown file for the Assignment 3 explain the problems related to the provided datasets and suggestions on how the data should be organized instead
+
+
 #### 4. Assignment 4 : _Work Plan & RQs_
 #### 5. Assignment 5 : _Data Cleaning Documentation_
 #### 6. Assignment 6 : _Progress Meeting_
